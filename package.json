@@ -1,7 +1,7 @@
 {
-  "name": "telegram-webapp-bot",
+  "name": "tdasd-wdas",
   "version": "1.0.0",
-  "description": "Telegram WebApp bot with keep-alive Express server",
+  "description": "Tdasdasd",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
