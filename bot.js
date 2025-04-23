@@ -2,8 +2,8 @@ const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
 const app = express();
 
-const BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN_HERE';
-const WEBAPP_URL = 'https://YOUR_FRONTEND_LINK.vercel.app/?startapp=true';
+const BOT_TOKEN = '8006268407:AAHp81wT5XUslBae92BSMvpRLVaKD7z40Ec';
+const WEBAPP_URL = 'https://85347hfsdui84.vercel.app/?startapp=true';
 
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });
 
